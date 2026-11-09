@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "MDR Serviços",
+    "slug": "mdr-servicos-app",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-sqlite",
+      "expo-status-bar",
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "O MDR Serviços usa a câmera para fotografar o local da vistoria.",
+          "photosPermission": "O MDR Serviços acessa suas fotos para anexar imagens à vistoria."
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
