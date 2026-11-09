@@ -128,13 +128,13 @@ docs/                     → prints e gif usados neste README
 
 🎥 **Vídeo completo:** [link do vídeo](COLOQUE_AQUI_O_LINK_DO_VIDEO)
 
-| Início | Serviços | Detalhe do serviço | Nova proposta | Propostas |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/telas/inicio.png" width="160"/> | <img src="docs/telas/servicos.png" width="160"/> | <img src="docs/telas/servico-detalhe.png" width="160"/> | <img src="docs/telas/proposta-form.png" width="160"/> | <img src="docs/telas/propostas.png" width="160"/> |
+| Início | Serviços | Nova proposta |
+|:---:|:---:|:---:|
+| <img src="docs/telas/inicio.png" width="200"/> | <img src="docs/telas/servicos.png" width="200"/> | <img src="docs/telas/proposta-form.png" width="200"/> |
 
-| Detalhe da proposta | Vistoria (nível) | Registrar vistoria | Vistorias salvas | Contato |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/telas/proposta-detalhe.png" width="160"/> | <img src="docs/telas/vistoria.png" width="160"/> | <img src="docs/telas/vistoria-form.png" width="160"/> | <img src="docs/telas/vistorias-lista.png" width="160"/> | <img src="docs/telas/contato.png" width="160"/> |
+| Propostas | Vistoria (nível) | Contato |
+|:---:|:---:|:---:|
+| <img src="docs/telas/propostas.png" width="200"/> | <img src="docs/telas/vistoria.png" width="200"/> | <img src="docs/telas/contato.png" width="200"/> |
 
 ---
 
