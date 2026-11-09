@@ -126,8 +126,6 @@ docs/                     → prints e gif usados neste README
 
 ## 4. Demonstração
 
-🎥 **Vídeo completo:** [link do vídeo](COLOQUE_AQUI_O_LINK_DO_VIDEO)
-
 | Início | Serviços | Nova proposta |
 |:---:|:---:|:---:|
 | <img src="docs/telas/inicio.png" width="200"/> | <img src="docs/telas/servicos.png" width="200"/> | <img src="docs/telas/proposta-form.png" width="200"/> |
@@ -185,5 +183,5 @@ Seguindo o guia de ética da disciplina: usei IA (Claude) como apoio para **revi
 ## 8. Créditos
 
 - Textos dos serviços: site institucional da MDR Serviços LTDA.
-- Imagens em `imagens/`: *(informe a origem e a licença de cada foto, ex.: acervo da MDR, Unsplash, Pexels)*.
+- Imagens em `imagens/`: site institucional da MDR Serviços LTDA.
 - Ícones: [Ionicons](https://ionic.io/ionicons) (licença MIT) via `@expo/vector-icons`.
