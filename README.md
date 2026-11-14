@@ -1,6 +1,6 @@
 # MDR Serviços – App Móvel (React Native / Expo)
 
-Projeto final da disciplina **CCP150 – Desenvolvimento de Aplicativos Móveis** (FEI – Prof. Vinicius).
+Projeto final da disciplina **CCP150 – Desenvolvimento de Aplicativos Móveis** (FEI – Prof. Vinicius), desenvolvido em grupo.
 
 <p align="center">
   <img src="docs/demo.gif" width="260" alt="Demonstração do app" />
@@ -162,8 +162,8 @@ npx expo start
 
 ### Aprendizados
 - **Navegação aninhada:** colocar as abas dentro de uma pilha e navegar de uma tela da pilha para uma aba específica (`navigate('Principal', { screen: 'Vistoria', params })`).
-- **Banco relacional no celular:** chave estrangeira com `ON DELETE CASCADE`, `JOIN`, subconsulta e `GROUP BY`. Também aprendi a usar **transações** para que o protocolo e o histórico nunca fiquem pela metade.
-- **Sensores na prática:** a leitura do acelerômetro tem ruído, e foi preciso aplicar **histerese** para o feedback (cor e vibração) não ficar "piscando". Também aprendi a assinar o sensor só com a tela em foco, para economizar bateria.
+- **Banco relacional no celular:** chave estrangeira com `ON DELETE CASCADE`, `JOIN`, subconsulta e `GROUP BY`. Também aprendemos a usar **transações** para que o protocolo e o histórico nunca fiquem pela metade.
+- **Sensores na prática:** a leitura do acelerômetro tem ruído, e foi preciso aplicar **histerese** para o feedback (cor e vibração) não ficar "piscando". Também aprendemos a assinar o sensor só com a tela em foco, para economizar bateria.
 - **Arquivos e permissões:** a foto da câmera fica num cache temporário, então é preciso copiá-la para uma pasta permanente e apagá-la junto com o registro.
 - **UX:** validação por campo, confirmações antes de ações destrutivas, estados vazios e de carregamento.
 
@@ -178,7 +178,7 @@ npx expo start
 
 ## 7. Uso de IA
 
-Seguindo o guia de ética da disciplina: usei IA (Claude) como apoio para **revisar o código, sugerir melhorias de UX e de organização das telas e identificar erros**. Todo o código foi lido, adaptado e testado por mim no celular, e consigo explicar cada parte na apresentação.
+Seguindo o guia de ética da disciplina: o grupo usou IA (Claude) como apoio para **revisar o código, sugerir melhorias de UX e de organização das telas e identificar erros**. Todo o código foi lido, adaptado e testado pelo grupo no celular, e todos os integrantes conseguem explicar cada parte na apresentação.
 
 ## 8. Créditos
 
