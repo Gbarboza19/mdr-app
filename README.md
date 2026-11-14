@@ -41,8 +41,8 @@ Levar o catálogo de serviços e todo o ciclo da proposta para o celular:
 
 | Tecnologia | Para que foi usada no app |
 |---|---|
-| **React Native + Expo (SDK 58)** | Base do app; roda no celular pelo Expo Go |
-| **JavaScript (ES2022)** | Linguagem do projeto |
+| **React Native + Expo** | Base do app; roda no celular pelo Expo Go |
+| **JavaScript** | Linguagem do projeto |
 | **@react-navigation/native** | `NavigationContainer` e `useFocusEffect`, que recarrega os dados do banco sempre que a tela volta ao foco |
 | **@react-navigation/bottom-tabs** | Barra inferior com as 5 abas principais |
 | **@react-navigation/native-stack** | Pilha de telas por cima das abas (detalhes e formulários), com cabeçalho e botão voltar |
@@ -166,6 +166,8 @@ npx expo start
 - **Sensores na prática:** a leitura do acelerômetro tem ruído, e foi preciso aplicar **histerese** para o feedback (cor e vibração) não ficar "piscando". Também aprendemos a assinar o sensor só com a tela em foco, para economizar bateria.
 - **Arquivos e permissões:** a foto da câmera fica num cache temporário, então é preciso copiá-la para uma pasta permanente e apagá-la junto com o registro.
 - **UX:** validação por campo, confirmações antes de ações destrutivas, estados vazios e de carregamento.
+
+Todo o grupo participou da montagem do projeto, e os labs realizados durante as aulas ajudaram muito a todos a montar o projeto da maneira mais íntegra possível. Já tínhamos trabalhado com a MDR no projeto de Engenharia de Software e Ecologia, que consistiu em criar um site para computador para a empresa. Porém, nada se comparou a criar um aplicativo para celular: foi algo muito dinâmico, que nos fez pensar e aprender muito.
 
 ### Próximos passos
 - Sincronizar os dados com a nuvem (Firebase/Firestore) para a equipe da MDR atender pelo próprio painel.
